@@ -1,6 +1,6 @@
 {
   "name": "@qwertyvipul/npm-test",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Just a test package",
   "main": "index.js",
   "scripts": {
